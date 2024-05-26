@@ -1,5 +1,4 @@
-  <title>ESP8266: Tiny WiFi Chip for Big IoT Ideas</title>
-</head>
+
 <body>
   <h1>ESP8266: Tiny WiFi Chip for Big IoT Ideas</h1>
   <p>The ESP8266 is a low-cost Wi-Fi microchip that lets you add Wi-Fi capabilities to your Internet of Things (IoT) projects.</p>
