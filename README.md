@@ -50,8 +50,8 @@
   <p>This section would typically include instructions on obtaining and uploading code to the ESP8266. You'll need to replace the bracketed text with specific instructions for your project.</p>
 
   <ul>
-    <li>Download and unzip the code ([link to your code])</li>
-    <li>Upload the code to the Wemos D1 Mini following these instructions [link to instructions]</li>
+    <li>Download and unzip the code </li>
+    <li>Upload the code to the Wemos D1 Mini following these instructions </li>
   </ul>
 
   <p>Disclaimer: The information on cybersecurity applications is for educational purposes only. Do not use this information for malicious purposes.</p>
