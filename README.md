@@ -55,5 +55,7 @@
   </ul>
 
   <p>Disclaimer: The information on cybersecurity applications is for educational purposes only. Do not use this information for malicious purposes.</p>
+
+<p><h1> More Details visit infoseclabs.io (<a href="https://infoseclabs.io/how-to-can-esp8266-used-in-cybersecurity/">https://infoseclabs.io/how-to-can-esp8266-used-in-cybersecurity/</a>) </h1>
 </body>
 </html>
